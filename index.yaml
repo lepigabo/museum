@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pressup-ui:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-30T23:52:03.5742067-03:00"
+    description: A Helm chart for Kubernetes
+    digest: ed632825874d5e22b034fd040b33b87fe539d0968171355178555a6f503a8f53
+    name: pressup-ui
+    type: application
+    urls:
+    - https://lepigabo.github.io/museum/pressup-ui-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-30T23:52:03.5732073-03:00"
